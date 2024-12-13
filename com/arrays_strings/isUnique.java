@@ -1,7 +1,5 @@
-package com.arrays_strings;
-
-public class isUnique {
+public class IsUnique {
     public static void main(String[] args) {
-        System.out.println("Hello world");
+        System.out.println("Is Unique string code here!");
     }
 }
